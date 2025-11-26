@@ -27,14 +27,15 @@
   ![Static Badge](https://img.shields.io/badge/PostgreSQL-464451?logo=PostgreSQL)
   ![Static Badge](https://img.shields.io/badge/SQL-001e8a?logo=SQL)
   ![Static Badge](https://img.shields.io/badge/Git-420028?logo=Git)
-  ![Static Badge](https://img.shields.io/badge/Spark-473100?logo=Spark)
-  ![Static Badge](https://img.shields.io/badge/Apache%20Airflow-4a8500?logo=PySpark)
+  ![Static Badge](https://img.shields.io/badge/Apache%20Spark-FDEE21?logo=apachespark&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka)
+  ![Static Badge](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=Apache%20Airflow&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Docker%20compose-850009?logo=Docker)
   ![Static Badge](https://img.shields.io/badge/Docker-854500?logo=Docker)
   ![Static Badge](https://img.shields.io/badge/Linux-2e2e2e?logo=Linux)
   ![Static Badge](https://img.shields.io/badge/OLAP-153799?logo=OLAP)
   ![Static Badge](https://img.shields.io/badge/Pandas-159799?logo=pandas)
-
+  
 </div>
 
 
